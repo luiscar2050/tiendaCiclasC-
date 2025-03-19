@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\SENA\\source\\repos\\Webciclas\\",
+  "WorkspaceRootPath": "C:\\Users\\SENA\\Desktop\\tiendaCiclasC-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F6CC74D-4989-40D8-A369-3E47085FC6B1}|Modelo\\Modelo.csproj|c:\\users\\sena\\source\\repos\\webciclas\\modelo\\basededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F6CC74D-4989-40D8-A369-3E47085FC6B1}|Modelo\\Modelo.csproj|c:\\users\\sena\\desktop\\tiendaciclasc-\\modelo\\basededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F6CC74D-4989-40D8-A369-3E47085FC6B1}|Modelo\\Modelo.csproj|solutionrelative:modelo\\basededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{981785D9-45F7-42E5-88A3-FCF64C1C7977}|Principal\\Principal.csproj|c:\\users\\sena\\source\\repos\\webciclas\\principal\\crear empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{981785D9-45F7-42E5-88A3-FCF64C1C7977}|Principal\\Principal.csproj|C:\\Users\\SENA\\Desktop\\tiendaCiclasC-\\principal\\crear empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{981785D9-45F7-42E5-88A3-FCF64C1C7977}|Principal\\Principal.csproj|solutionrelative:principal\\crear empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{981785D9-45F7-42E5-88A3-FCF64C1C7977}|Principal\\Principal.csproj|c:\\users\\sena\\source\\repos\\webciclas\\principal\\vistaadmin2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{981785D9-45F7-42E5-88A3-FCF64C1C7977}|Principal\\Principal.csproj|C:\\Users\\SENA\\Desktop\\tiendaCiclasC-\\principal\\vistaadmin2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{981785D9-45F7-42E5-88A3-FCF64C1C7977}|Principal\\Principal.csproj|solutionrelative:principal\\vistaadmin2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{981785D9-45F7-42E5-88A3-FCF64C1C7977}|Principal\\Principal.csproj|c:\\users\\sena\\source\\repos\\webciclas\\principal\\vistaadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{981785D9-45F7-42E5-88A3-FCF64C1C7977}|Principal\\Principal.csproj|C:\\Users\\SENA\\Desktop\\tiendaCiclasC-\\principal\\vistaadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{981785D9-45F7-42E5-88A3-FCF64C1C7977}|Principal\\Principal.csproj|solutionrelative:principal\\vistaadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -26,17 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BaseDeDatos.cs",
-              "DocumentMoniker": "C:\\Users\\SENA\\source\\repos\\Webciclas\\Modelo\\BaseDeDatos.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\tiendaCiclasC-\\Modelo\\BaseDeDatos.cs",
               "RelativeDocumentMoniker": "Modelo\\BaseDeDatos.cs",
-              "ToolTip": "C:\\Users\\SENA\\source\\repos\\Webciclas\\Modelo\\BaseDeDatos.cs",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\tiendaCiclasC-\\Modelo\\BaseDeDatos.cs",
               "RelativeToolTip": "Modelo\\BaseDeDatos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T16:16:02.997Z",
               "EditorCaption": ""
@@ -45,37 +49,34 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Crear Empleado.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\SENA\\source\\repos\\Webciclas\\Principal\\Crear Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\tiendaCiclasC-\\Principal\\Crear Empleado.cs",
               "RelativeDocumentMoniker": "Principal\\Crear Empleado.cs",
               "ToolTip": "C:\\Users\\SENA\\source\\repos\\Webciclas\\Principal\\Crear Empleado.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Principal\\Crear Empleado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\source\\repos\\Webciclas\\Principal\\Crear Empleado.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T16:09:53.751Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-03-19T16:09:53.751Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "VistaAdmin2.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\SENA\\source\\repos\\Webciclas\\Principal\\VistaAdmin2.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\tiendaCiclasC-\\Principal\\VistaAdmin2.cs",
               "RelativeDocumentMoniker": "Principal\\VistaAdmin2.cs",
               "ToolTip": "C:\\Users\\SENA\\source\\repos\\Webciclas\\Principal\\VistaAdmin2.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Principal\\VistaAdmin2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\source\\repos\\Webciclas\\Principal\\VistaAdmin2.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T16:07:20.554Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-03-19T16:07:20.554Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "VistaAdmin.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\SENA\\source\\repos\\Webciclas\\Principal\\VistaAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\tiendaCiclasC-\\Principal\\VistaAdmin.cs",
               "RelativeDocumentMoniker": "Principal\\VistaAdmin.cs",
               "ToolTip": "C:\\Users\\SENA\\source\\repos\\Webciclas\\Principal\\VistaAdmin.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Principal\\VistaAdmin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\source\\repos\\Webciclas\\Principal\\VistaAdmin.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T16:00:16.457Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-03-19T16:00:16.457Z"
             }
           ]
         }

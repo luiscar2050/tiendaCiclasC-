@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SENA\\source\\repos\\Webciclas\\Webciclas\\Webciclas.csproj": {}
+    "C:\\Users\\SENA\\Desktop\\tiendaCiclasC-\\Webciclas\\Webciclas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SENA\\source\\repos\\Webciclas\\Webciclas\\Webciclas.csproj": {
+    "C:\\Users\\SENA\\Desktop\\tiendaCiclasC-\\Webciclas\\Webciclas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SENA\\source\\repos\\Webciclas\\Webciclas\\Webciclas.csproj",
+        "projectUniqueName": "C:\\Users\\SENA\\Desktop\\tiendaCiclasC-\\Webciclas\\Webciclas.csproj",
         "projectName": "Webciclas",
-        "projectPath": "C:\\Users\\SENA\\source\\repos\\Webciclas\\Webciclas\\Webciclas.csproj",
+        "projectPath": "C:\\Users\\SENA\\Desktop\\tiendaCiclasC-\\Webciclas\\Webciclas.csproj",
         "packagesPath": "C:\\Users\\SENA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SENA\\source\\repos\\Webciclas\\Webciclas\\obj\\",
+        "outputPath": "C:\\Users\\SENA\\Desktop\\tiendaCiclasC-\\Webciclas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SENA\\AppData\\Roaming\\NuGet\\NuGet.Config",

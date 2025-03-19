@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SENA\\source\\repos\\Webciclas\\Logica\\Logica.csproj",
+      "projectUniqueName": "C:\\Users\\SENA\\Desktop\\tiendaCiclasC-\\Logica\\Logica.csproj",
       "projectName": "Logica",
-      "projectPath": "C:\\Users\\SENA\\source\\repos\\Webciclas\\Logica\\Logica.csproj",
+      "projectPath": "C:\\Users\\SENA\\Desktop\\tiendaCiclasC-\\Logica\\Logica.csproj",
       "packagesPath": "C:\\Users\\SENA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SENA\\source\\repos\\Webciclas\\Logica\\obj\\",
+      "outputPath": "C:\\Users\\SENA\\Desktop\\tiendaCiclasC-\\Logica\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SENA\\AppData\\Roaming\\NuGet\\NuGet.Config",
