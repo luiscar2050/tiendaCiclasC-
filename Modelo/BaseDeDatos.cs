@@ -8,5 +8,6 @@ namespace Modelo
 {
     internal class BaseDeDatos
     {
+
     }
 }

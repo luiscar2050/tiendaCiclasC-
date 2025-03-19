@@ -45,12 +45,13 @@
             // 
             button1.BackColor = SystemColors.Highlight;
             button1.ForeColor = SystemColors.InactiveCaptionText;
-            button1.Location = new Point(254, 171);
+            button1.Location = new Point(265, 174);
             button1.Name = "button1";
-            button1.Size = new Size(185, 98);
+            button1.Size = new Size(185, 93);
             button1.TabIndex = 1;
             button1.Text = "Ingresar Al Sistema";
             button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
             // 
             // Index
             // 

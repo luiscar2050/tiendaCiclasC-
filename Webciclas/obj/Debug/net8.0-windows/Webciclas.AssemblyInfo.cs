@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Webciclas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bc41cbb138572e35af020758d893cdab40beb6a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0ed2ecd45081807ef43f97c5d1b134f00ceefec")]
 [assembly: System.Reflection.AssemblyProductAttribute("Webciclas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Webciclas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
